@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">1911500518_FirstApp_AF2021</string>
+    <string name="judul_skripsi">
+        1. Pengembangan Bahan Ajar Pengantar Teknologi Informasi Berbasis Contextual Teaching and Learning di Jurusan Teknik Elektro Universitas Negeri Malang.
+        2. Rancang Bangun Game 2d Shooter Pltformer Menggunakan Metode Finite State Machine.
+        3. Sistem Pendukung Keputusan Penentuan Dosen Pembimbing Skripsi Menggunakan Metode Profile Matching (Studi Kasus: STMIK Pelita Nusantara Medan).
+        4. Pengembangan Sistem Informasi Presensi Kuliah Berbasis NFC di Program Studi Pendidikan Teknik Informatika dan Komputer Universitas Sebelas Maret.
+        5. Pengembangan Aplikasi Managemen Tugas Skripsi (Studi Kasus: Program Studi Teknik Informatika Universitas Trunojoyo Madura).
+        6. Implementasi Aplikasi Mobile Water Drinking Assistant CV. Gama Putra Santosa.
+        7. Prediksi Permintaan Mata Kuliah Pada Semester Padat Dengan Menggunakan Teknik Association Rule Dengan Algoritma Apriori Pada Fakultas Teknologi Informasi.
+        8. Rancang Bangun Sistem Parkir Otomatis Pada Kampus Ii Itn Malang Menggunakan Minimum Sistem Arduino Dengan Website.
+        9. Analisis Perbandingan Framework Codeigniter Dan Framework Laravel (Studi Kasus Inventaris Hmj Ti Stmik Akakom Yogyakarta).
+        10. Sistem Pakar Diagnosa Penyakit Pencernaan Pada Manusia Menggunakan Metode Certainty Factor Berbasis Web. </string>
+    
+    <string name="judul_kkp">
+        1. Studi dan Implementasi Konsep Business to Costumer dengan Teknologi M-Commerce berbasis WAP
+        2. Perancangan Sistem Informasi Berbasis Web pada Perpustakaan Umum Daerah di Singaraja
+        3. Sistem Aplikasi Try Out SPMB dan EBTANAS Berbasis Web Menggunakan PHP MySQL
+        4. Aplikasi Logika Fuzzy untuk Prediksi Penyakit dengan Metode Criteria Decision Making
+        5. Sistem Informasi Eksekutif untuk Perencanaan Tata Letak Anak Cabang Perusahaan (Studi Kasus Bank PD. BPR Bapas 69 Magelang)
+        6. Membangun Aplikasi Pustaka (Pusat Data Informatika) Berbasis Web
+        7. Sistem Pendukung Keputusan Penentuan Porsi Dana Investasi Portofolio dengan Model Indeks Tunggal
+        8. Rancang Bangun Multiplayer Game Real Time Strategy Berbasis Macromedia Flash MX
+        9. Menentukan Volume Produksi dengan Menggunakan Metode Sugeno
+        10. Sistem Informasi dan Analisa Akuntansi di PT. Prima Cipta Informatika Yogyakarta
+        11. Penentuan Lokasi Optimal untuk Distribusi Unit Pelayanan Kesehatan (Puskesmas) dengan Sistem Informasi Geografis di Kabupaten Sleman, DIY
+        12. Rancang Bangun Sistem Informasi Geografis Daerah Pariwisata Propinsi Bali Berbasis Web
+        13. Rancang Bangun Aplikasi SMS Alert untuk Job Seeker (Studi Kasus di Alumni Career Center UII)
+        14. Membangun Sistem Perangkat Lunak untuk Efisiensi Biaya Proyek Pembangunan dengan Memanfaatkan FLOAT pada Metode Analisis Jaringan Kerja
+        15. Pemanfaatan Fuzzy Linguistic Hedge sebagai Pengecek Tata Bahasa (Grammar) pada Kalimat yang Berbahasa Inggris
+    </string>
+</resources>
